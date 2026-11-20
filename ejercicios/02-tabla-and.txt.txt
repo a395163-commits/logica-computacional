@@ -1,0 +1,24 @@
+﻿TABLA DE VERDAD DEL OPERADOR AND
+
+
+El operador AND devuelve verdadero solamente cuando ambas condiciones son verdaderas.
+
+
+P       Q       P AND Q
+V       V          V
+V       F          F
+F       V          F
+F       F          F
+
+
+EJEMPLO COTIDIANO
+
+
+Para entrar al cine necesito tener boleto Y ser mayor de edad.
+
+
+P = Tener boleto.
+Q = Ser mayor de edad.
+
+
+La entrada se permite solamente cuando ambas condiciones son verdaderas.
