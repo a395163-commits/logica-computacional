@@ -15,3 +15,9 @@ a395163-commits
 ## Herramientas
 - Pseudocódigo.
 - GitHub.
+
+## Lo que aprendí
+
+- Un repositorio sirve para organizar y guardar los archivos de un proyecto.
+- Un commit sirve para registrar los cambios realizados en los archivos.
+- Una rama sirve para trabajar en modificaciones sin afectar el proyecto principal.
