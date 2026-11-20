@@ -29,8 +29,11 @@ Indicar si el número es par o impar.
 
 ## Pruebas
 
+
 | Entrada | Resultado esperado |
 |---|---|
 | 8 | Par |
 | 7 | Impar |
 | 0 | Par |
+| -4 | Par |
+
